@@ -1,0 +1,1 @@
+data = fileread('Cleaneddata2.csv');
